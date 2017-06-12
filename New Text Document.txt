@@ -1,0 +1,5 @@
+<a href="https://www.accuweather.com/en/us/poulsbo-wa/98370/weather-forecast/341341" class="aw-widget-legal">
+<!--
+By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at https://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at https://www.accuweather.com/en/privacy.
+-->
+</a><div id="awcc1497236640703" class="aw-widget-current"  data-locationkey="341341" data-unit="f" data-language="en-us" data-useip="false" data-uid="awcc1497236640703"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
